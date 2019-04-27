@@ -13,6 +13,12 @@ gem 'puma', '~> 3.11'
 #Amazon storage
 gem 'aws-sdk-s3'
 gem 'pry'
+
+#Serializer
+gem 'active_model_serializers'
+
+#teste com Rspec
+gem 'rspec-rails'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # gem 'jbuilder', '~> 2.5'
 # Use Redis adapter to run Action Cable in production
